@@ -5,7 +5,7 @@ What is this
 -------------
 
 This is a smallest images of Alphine os with preinstelled Dante socks5 sever.
-Main aim of It is accessing for Telegram clients free. But there is not any restriction to use for antother puprose.
+Main aim of It is accessing for Telegram clients free. But there is not any restriction to use for another puprose.
 Keept Its easy with added scripts.
 
 [**Dante**](http://www.inet.no/dante/index.html) Socks5 implements RFC 1928 and related standards.
