@@ -68,7 +68,9 @@ WARNING: Many browsers do not support SOCKS authentication so SOCKS v4 will be b
 
 And finally run at your browser to set up the proxy for Telegram client:
 
-    https://t.me/socks?server=server_address&port=1080&user=proxyuser&pass=password
+    https://t.me/socks?server=159.89.212.102&port=1080&user=github&pass=xgKdT3dn
+
+You can use my ready server as is.
 
 
 
