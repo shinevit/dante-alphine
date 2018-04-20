@@ -30,7 +30,7 @@ Build at first:
 
      $ cd ./docker && sh ./build.sh
 
-Wait for a while
+Wait for a while. And you will get a linux image of size 13.9 MB.
 
 Run docker container:
      
