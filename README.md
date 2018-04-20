@@ -26,22 +26,20 @@ How to use
 There are some useful scripts to work easy.
 Like building an image, start up our container, add and delete user, list users.
 
-1. Build at first:
-
+Build at first:
 
      $ cd ./docker && sh ./build.sh
 
 Wait for a while
 
-2. Run docker container:
-
+Run docker container:
      
      $ ./start.sh
 
 Change its configuration by mounting a custom `/etc/sockd.conf`
 (see [sample config files](http://www.inet.no/dante/doc/latest/config/server.html)).
 
-3. Set up one user at least. Look how to set up authentication below.
+Set up one user at least. Look how to set up authentication below.
 
 
 
