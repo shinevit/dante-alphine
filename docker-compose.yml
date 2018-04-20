@@ -1,0 +1,6 @@
+server:
+  image: shinevit/dante-alphine
+  container_name: dante-server
+  ports:
+    - "1080:1080"
+  restart: unless-stopped
