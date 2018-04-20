@@ -28,7 +28,7 @@ Like building an image, start up our container, add and delete user, list users.
 
 1. Build at first:
 
-      $ cd ./docker && sh ./build.sh
+     $ cd ./docker && sh ./build.sh
 
 Wait for a while
 
@@ -60,7 +60,7 @@ Client-side set up
 
 Let's check in how to work proxy.
 
-    $ curl -v -x socks5://someuser:password@server_address:1080 https://t.me
+     $ curl -v -x socks5://someuser:password@server_address:1080 https://t.me
 
 It should produce a succesfull answer like "HTTP/1.1 302 Found"
 Warning: Many browsers do not support SOCKS authentication so SOCKS v4 will be blocked
