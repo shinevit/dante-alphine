@@ -32,9 +32,9 @@ Build at first:
 
 Wait for a while. And you will get a linux image of size 13.9 MB.
 
-Run docker container:
+Run docker container at the root dir:
      
-     $ ./start.sh
+     $ cd .. && ./start.sh
 
 Change its configuration by mounting a custom `/etc/sockd.conf`
 (see [sample config files](http://www.inet.no/dante/doc/latest/config/server.html)).
