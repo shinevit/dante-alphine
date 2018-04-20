@@ -62,8 +62,8 @@ Let's check in how to work proxy.
 
      $ curl -v -x socks5://someuser:password@server_address:1080 https://t.me
 
-It should produce a succesfull answer like "HTTP/1.1 302 Found"
-Warning: Many browsers do not support SOCKS authentication so SOCKS v4 will be blocked
+It should produce a succesfull answer like "HTTP/1.1 302 Found".
+Warning: Many browsers do not support SOCKS authentication so SOCKS v4 will be blocked.
 
 And finally run at your browser to set up the proxy for Telegram client:
 
